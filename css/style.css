@@ -1,7 +1,20 @@
 
+/* header */
 
 header{
-    background-color: #0000ff;
-    height: 300px;
-    background-image: url("img/pattern.png");
+    background-color: #4ea0ff;
+    height: 150px;
+    background-image: url("../img/pattern.png");
+}
+
+#logo{
+    height: 30px;
+}
+
+/* table */
+.thead{
+    background-color: #20a9e5;
+}
+.bluerow{
+    background-color: #b1e5f2;
 }
