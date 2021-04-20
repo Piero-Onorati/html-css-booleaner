@@ -55,10 +55,21 @@ h1{
 
 /* table */
 
+table{
+    text-align: left;
+    border-spacing: 0;
+}
+
 .thead{
     color: white;
     background-color: #20a9e5;
 }
+
+.small{
+    width: 25%;
+}
+
+
 .bluerow{
     background-color: #b1e5f2;
 }
